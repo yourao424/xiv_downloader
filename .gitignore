@@ -1,0 +1,16 @@
+# 対象外のディレクトリ
+.vscode/
+UserData/
+
+# 対象外のファイル
+download/**/*.jpg
+download/**/*.png
+
+driver/**/*.exe
+
+info/**/*.csv
+
+json/**/*.json
+
+# 対象外の拡張子
+*.log
